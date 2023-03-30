@@ -1,5 +1,5 @@
 # Hi! I'm Md Asaduzzaman 👋
-Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.bd/) as a Software  Engineer. Thanks for visiting and I'd love to connect!
+Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.bd/) as a Software  Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Thanks for visiting and I'd love to connect!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/asaduzzaman-arob">
