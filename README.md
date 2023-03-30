@@ -1,5 +1,5 @@
 # Hi! I'm Md Asaduzzaman 👋
-Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.bd/) as a Software  Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Thanks for visiting and I'd love to connect!
+Welcome to my profile! Currently I'm working at [Nagadhat Bangladesh Ltd](https://nagadhat.com.bd/) as a Software  Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Thanks for visiting and I'd love to connect!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/asaduzzaman-arob">
@@ -13,14 +13,14 @@ Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.
   </a>
 </div>
 
-### Quick highlighs
+### 💡 Quick highlighs
 
 - Experience in PHP Laravel
 - 2 + years of professional experience in the software industry
 - Developed applications by following SOLID principles, clean architecture.
 - Open-source enthusiast and love to write elegant code.
 
-### Technology Stacks
+### 📡 Technology Stacks
 - Language: PHP, Javascript
 - Frameworks: Laravel, Vue.js, React.js
 - DBMS: MySQL, PostgreSQL, MongoDB
