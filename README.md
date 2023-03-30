@@ -1,6 +1,12 @@
 # Hi! I'm Md Asaduzzaman 👋
 Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.bd/) as a Software  Engineer. Thanks for visiting and I'd love to connect!
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+
 ### Quick highlighs
 
 - Experience in PHP Laravel
