@@ -1,4 +1,4 @@
-# Hi! I'm Md Asaduzzaman 👋
+# Hi! I'm Md. Asaduzzaman 👋
 Welcome to my profile! Currently I'm working at [Qtec Solution Limited](https://www.qtecsolution.com/) as a Software  Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Thanks for visiting and I'd love to connect!
 
 <div id="badges">
