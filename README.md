@@ -30,7 +30,7 @@ Welcome to my profile! Currently I'm working at [Qtec Solution Limited](https://
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-line-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -49,11 +49,13 @@ Welcome to my profile! Currently I'm working at [Qtec Solution Limited](https://
 
 
 
+
+
 <a href="https://github.com/s1kopath">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=s1kopath&theme=dark&show_icons=true&count_private=true&hide=contribs&line_height=40" />
+ <img src="https://streak-stats.demolab.com?user=s1kopath&locale=en&mode=daily&theme=transparent&hide_border=true" alt="streak graph"  />
 </a>
 <a href="https://github.com/sohel1999">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1kopath&theme=dark&langs_count=4&hide=html,css,erlang" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s1kopath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" alt="languages graph"  />
 </a>
 
 <!--
