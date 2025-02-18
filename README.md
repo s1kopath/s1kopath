@@ -16,15 +16,15 @@ Welcome to my profile! Currently I'm working at [Qtec Solution Limited](https://
 ### 💡 Quick highlighs
 
 - Experience in PHP Laravel
-- 2 + years of professional experience in the software industry
+- 3 + years of professional experience in the software industry
 - Developed applications by following SOLID principles, clean architecture.
 - Open-source enthusiast and love to write elegant code.
 
 ### 📡 Technology Stacks
 - Language: PHP, Javascript
-- Frameworks: Laravel, Vue.js, React.js
+- Frameworks: Laravel, Vue.js, React.js, Next.js
 - DBMS: MySQL, PostgreSQL, MongoDB
-- Infrastructure:  cPanel, Netlify, Heroku, Firebase
+- Infrastructure:  AWS, VPS, cPanel, Netlify, Heroku, Firebase
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -46,29 +46,3 @@ Welcome to my profile! Currently I'm working at [Qtec Solution Limited](https://
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-
-
-
-
-<a href="https://github.com/s1kopath">
- <img src="https://streak-stats.demolab.com?user=s1kopath&locale=en&mode=daily&theme=transparent&hide_border=true" alt="streak graph"  />
-</a>
-<a href="https://github.com/sohel1999">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s1kopath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" alt="languages graph"  />
-</a>
-
-<!--
-**s1kopath/s1kopath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
