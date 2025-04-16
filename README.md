@@ -30,9 +30,9 @@ I'm an experienced Software Engineer <img src="https://media.giphy.com/media/WUl
 ### 📡 Technology Stacks
 
 - Language: PHP, Javascript
-- Frameworks: Laravel, Vue.js, React.js, Next.js
-- DBMS: MySQL, PostgreSQL, MongoDB
-- Infrastructure: AWS, VPS, cPanel, Netlify, Heroku, Firebase
+- Frameworks: Laravel, Vue.js, React.js, Next.js, Inertia.Js, Liveware, Filament
+- DBMS: MySQL, PostgreSQL, MongoDB, Sqlite
+- Infrastructure: AWS, VPS, cPanel, Netlify, Heroku, Firebase, Docker
 
 ### :hammer_and_wrench: Languages and Tools :
 
