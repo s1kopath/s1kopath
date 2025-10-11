@@ -23,7 +23,7 @@ I'm an experienced Software Engineer <img src="https://media.giphy.com/media/WUl
 ### 💡 Quick highlighs
 
 - Experience in PHP Laravel
-- 3 + years of professional experience in the software industry
+- 4 + years of professional experience in the software industry
 - Developed applications by following SOLID & DRY principles, clean architecture.
 - Helped 20+ Businesses turn ideas into scalable Web Solutions.
 
