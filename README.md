@@ -6,7 +6,7 @@ I'm an experienced Software Engineer <img src="https://media.giphy.com/media/WUl
   <a href="https://www.linkedin.com/in/asaduzzaman-arob">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@tinydrop5955">
+  <a href="https://www.youtube.com/@nottinydrop">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/S1KOPAtH">
