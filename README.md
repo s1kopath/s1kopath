@@ -50,7 +50,7 @@ I'm an experienced Software Engineer <img src="https://media.giphy.com/media/WUl
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/CPanel_logo.svg/2560px-CPanel_logo.svg.png" title="cPanel" alt="cPanel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cpanel/cpanel-original-wordmark.svg" title="cPanel" alt="cPanel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -59,7 +59,7 @@ I'm an experienced Software Engineer <img src="https://media.giphy.com/media/WUl
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://pbs.twimg.com/profile_images/1619675369333788674/FVauPXtT_400x400.jpg" title="Filament" alt="Filament" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/filamentphp/filamentphp-original.svg" title="Filament" alt="Filament" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" title="Inertia" alt="Inertia" width="40" height="40"/>&nbsp;
   <img src="https://logowik.com/content/uploads/images/laravel-livewire4180.logowik.com.webp" title="Liveware" alt="Liveware" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;  
